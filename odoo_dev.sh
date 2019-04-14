@@ -20,7 +20,7 @@
  
 ##fixed parameters
 #odoo instead of odoo use ur user name .EG OE_USER="mahmoud"
-OE_USER="odoo"
+OE_USER="ahmed"
 #The default port where this Odoo instance will run under (provided you use the command -c in the terminal)
 #Set to true if you want to install it, false if you don't need it or have it already installed.
 INSTALL_WKHTMLTOPDF="True"
